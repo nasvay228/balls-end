@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>images/pudge.jpeg</file>
+    </qresource>
+</RCC>
